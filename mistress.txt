@@ -1,5 +1,6 @@
 hello this file is for mistress branch
-
 conflict merge from master branch --2
+practise for conflicting merges on mistress branch: 1.0.0
 
-new adding
+fixing 1.1.0
+fixing 1.1.1
