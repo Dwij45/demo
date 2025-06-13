@@ -1,0 +1,6 @@
+this file is used to test the rebasing functionality of git.
+// It contains some text that will be modified during the rebase process.
+// The content of this file is not important, but it should be different    
+
+new content to be added during 
+for pushing the changes to the remote repository.
